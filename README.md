@@ -1,7 +1,6 @@
-<img src="https://marouse.fr/pp-circle.png" width="75" height="75" align="right">
-
 <h1> Hey, I'm Grégoire ! 👋🏻</h2> 
-  
+
+<img src="https://marouse.fr/pp-circle.png" width="20%" align="right">
 
 💼&nbsp;&nbsp;&nbsp;I'm a student at <a href="https://www.iutvannes.fr/" target="_blank">IUT de Vannes</a>&nbsp;
 
