@@ -1,6 +1,11 @@
-<h2>
-    Hey, I'm Grégoire ! 👋🏻
-</h2>
+<div style="width:100%; display: flex; align-items: center; justify-content: space-between;">
+
+  <h2>
+      Hey, I'm Grégoire ! 👋🏻
+  </h2>
+  <img src="https://marouse.fr/assets/img/intro.jpg" alt="profile" style="width:80px; height:80px; border-radius:50%; object-fit:cover;">
+  
+</div>
 
 💼&nbsp;&nbsp;&nbsp;I'm a student at <a href="https://www.iutvannes.fr/" target="_blank">IUT de Vannes</a>&nbsp;
 
